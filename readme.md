@@ -6,3 +6,5 @@ git config --global user.name "Seu nome"
 git branch -M "main" // dá o nome da nossa branch local
 git remote add origin <seu link> // faz a conexão do repositorio local e o da nuvem
 git push -u origin main // envia as modificações para o repositorio da nuvem
+git checkout -b // cria uma nova branch
+git checkout <nome da branch> // troca de branch
